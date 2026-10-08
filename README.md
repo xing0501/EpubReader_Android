@@ -34,8 +34,10 @@
 4. 安裝完成後，即可在桌面找到 `EpubReader` 點擊開啟並匯入您的書籍開始閱讀！
 
 ## 📱 螢幕截圖
-
-
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/bc187453-9d15-464d-8132-c0a677148047" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/536fa52d-a872-4be0-b840-ac37c564c315" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/9dc41d73-8b50-4e53-a8f7-d53f6dabba20" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/b79fd896-c77e-4cb5-ae10-5c2075b5c1aa" />
 
 ## 🛠 開發與技術棧
 
